@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # MACCHANGER-AUTOLOOP: Rotate MAC every X minutes, auto-restore on CTRL+C
-# Author: AstraLoom
 
 iface="eth0"
 interval_minutes=15  # Change this for your rotation period
